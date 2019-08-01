@@ -1,2 +1,2 @@
-require './twimlhello'
+require './hello'
 run Sinatra::Application
